@@ -21,7 +21,7 @@ To run the app locally, follow these steps:
 1. Clone the repository:
    
    ```bash
-   git clone https://github.com/Aditya-Acharya12/keeper-notes.git
+    git clone https://github.com/Aditya-Acharya12/keeper-notes.git
    ```
 3. Navigate to the project directory
 
