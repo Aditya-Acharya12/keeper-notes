@@ -19,11 +19,11 @@ A simple, lightweight Notes app built with React and configured using Vite. This
 To run the app locally, follow these steps:
 
 1. Clone the repository:
-
+2. 
    ```bash
    git clone https://github.com/Aditya-Acharya12/keeper-notes.git
-
-2. Navigate to the project directory
+   ```
+3. Navigate to the project directory
 
   ```bash
    cd notes-app
